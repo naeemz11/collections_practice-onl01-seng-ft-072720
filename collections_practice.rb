@@ -25,6 +25,7 @@ end
 
 def reverse_array(array)
   array.reverse
+<<<<<<< HEAD
 end 
 
 def kesha_maker(array)
@@ -54,4 +55,6 @@ def sum_array(array)
   sum += add
 end 
 sum 
+=======
+>>>>>>> 3f10c0a6f7edd260367993037558c2371c170de7
 end 
